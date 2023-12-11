@@ -1,0 +1,60 @@
+.navbar{
+    background-color: #8EA7E9;
+    padding: 1px;
+    /* margin-bottom: 20px; */
+}
+
+.dropdown-item{
+    background-color: #8EA7E9;
+}
+.dropdown-item:hover{
+    background-color: #8EA7E9;
+}
+
+
+.logo{
+    width: 1px;
+    height: 1px;
+
+}
+
+.namalogo{
+    text-align: center  ;
+    word-wrap: break-word;
+    width: 110px;
+    font-weight: bolder;
+}
+
+.nav-link{
+    color: black;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img{
+    width: 200px;
+    height: 50px;
+}
+
+.sec2{
+    display: flex;
+    justify-content: center;
+}
+
+.gambar{
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+}
+.gambar1{
+    margin-top: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+.carousel-item img{
+    height: 620px;
+}
